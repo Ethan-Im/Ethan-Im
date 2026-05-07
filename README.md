@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&width=500&lines=9+Years+Chemical+Engineer+%40+Henkel;Chemistry+%2B+CS+%2B+AI;Building+Polyinverse+%F0%9F%A7%AA;SF+%E2%86%92+Reality" />
 </div>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-im-68335930a)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@ethan.im_)
+
 <br/>
 
 ```python
