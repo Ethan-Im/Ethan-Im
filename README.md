@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=180&section=header&text=Ethan%20Im&fontSize=48&fontColor=00ff88&animation=fadeIn&desc=Materials%20Engineer%20×%20AI%20Researcher&descColor=888888" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=180&section=header&text=Ethan%20Im&fontSize=48&fontColor=00ff88&animation=fadeIn&desc=Chemical%20Engineer%20×%20AI%20Researcher&descColor=888888" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&width=500&lines=9+Years+Materials+Engineer+%40+Henkel;Chemistry+%2B+CS+%2B+AI;Building+Polyinverse+%F0%9F%A7%AA;SF+%E2%86%92+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&width=500&lines=9+Years+Chemical+Engineer+%40+Henkel;Chemistry+%2B+CS+%2B+AI;Building+Polyinverse+%F0%9F%A7%AA;SF+%E2%86%92+Reality" />
 </div>
 
 <br/>
 
 ```python
 ethan = {
-    "role"    : "Materials Engineer → AI Researcher",
+    "role"    : "Chemical Engineer → AI Researcher",
     "stack"   : ["PyTorch", "GNN", "RDKit", "Python"],
     "mission" : "Accelerate materials discovery with AI",
     "belief"  : "SF should become reality 🚀"
