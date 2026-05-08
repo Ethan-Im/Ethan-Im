@@ -39,8 +39,8 @@ ethan = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Im&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=6" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Im&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" height="150"/>
 </div>
 
 <div align="center">
