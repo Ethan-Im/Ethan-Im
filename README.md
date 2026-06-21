@@ -12,7 +12,6 @@
 
 <br/>
 
-\`\`\`python
 ethan = {
     \"role\"    : \"Chemical Engineer → AI Researcher\",
     \"focus\"   : \"Inverse molecular design for drug discovery & materials\",
@@ -20,7 +19,6 @@ ethan = {
     \"mission\" : \"Accelerate drug & materials discovery with AI\",
     \"belief\"  : \"SF should become reality 🚀\"
 }
-\`\`\`
 
 <br/>
 
