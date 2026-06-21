@@ -12,13 +12,15 @@
 
 <br/>
 
+```python
 ethan = {
-    \"role\"    : \"Chemical Engineer → AI Researcher\",
-    \"focus\"   : \"Inverse molecular design for drug discovery & materials\",
-    \"stack\"   : [\"PyTorch\", \"PyTorch Geometric\", \"AttentiveFP\", \"RDKit\", \"Genetic Algorithms\"],
-    \"mission\" : \"Accelerate drug & materials discovery with AI\",
-    \"belief\"  : \"SF should become reality 🚀\"
+    "role"    : "Chemical Engineer → AI Researcher",
+    "focus"   : "Inverse molecular design for drug discovery & materials",
+    "stack"   : ["PyTorch", "PyTorch Geometric", "AttentiveFP", "RDKit", "Genetic Algorithms"],
+    "mission" : "Accelerate drug & materials discovery with AI",
+    "belief"  : "SF should become reality 🚀"
 }
+```
 
 <br/>
 
