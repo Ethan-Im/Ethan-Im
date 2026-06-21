@@ -1,13 +1,14 @@
-content = '''<div align=\"center\">
-  <img src=\"https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=220&section=header&text=Ethan%20Im&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20×%20Computational%20Drug%20Discovery&descColor=888888&descAlignY=65\" width=\"100%\"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=220&section=header&text=Ethan%20Im&fontSize=48&fontColor=00ff88&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20×%20Computational%20Drug%20Discovery&descColor=888888&descAlignY=65" width="100%"/>
 </div>
 
-<div align=\"center\">
-  <img src=\"https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&width=600&lines=9+Years+Chemical+Engineer+%40+Henkel;Chemistry+%2B+CS+%2B+AI;Building+EGFR-Inverse+%F0%9F%A7%AC;Inverse+Molecular+Design+for+Drug+Discovery\" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&width=600&lines=9+Years+Chemical+Engineer+%40+Henkel;Chemistry+%2B+CS+%2B+AI;Building+EGFR-Inverse+%F0%9F%A7%AC;Inverse+Molecular+Design+for+Drug+Discovery" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-im-68335930a)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.com/@ethan.im_)
+
 
 <br/>
 
