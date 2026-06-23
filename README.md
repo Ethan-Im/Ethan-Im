@@ -28,7 +28,7 @@ ethan = {
 
 > *\"Design EGFR inhibitors — including for drug-resistant cancer mutations — with AI, end to end.\"*
 
-[![Demo](https://img.shields.io/badge/🔬_Live_Demo-00ff88?style=for-the-badge)]([https://github.com/Ethan-Im/EGFR-Inverse](https://huggingface.co/spaces/Ethan-Im/EGFR-Inverse))
+[![Demo](https://img.shields.io/badge/🔬_Live_Demo-00ff88?style=for-the-badge)]([(https://huggingface.co/spaces/Ethan-Im/EGFR-Inverse)])
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Ethan-Im/EGFR-Inverse)
 [![Research Notes](https://img.shields.io/badge/Research_Notes-blue?style=for-the-badge)](https://github.com/Ethan-Im/EGFR-Inverse/tree/main/research_notes)
 
