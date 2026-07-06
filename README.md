@@ -107,7 +107,7 @@
 ***Building trustworthy AI systems that accelerate scientific discovery.***
 
 From molecular design and materials discovery to protein engineering 
-and future scientific foundation models,
-my goal is to expand humanity's ability to understand and create the natural world.
+<br>and future scientific foundation models,
+<br>my goal is to expand humanity's ability to understand and create the natural world.
 
 </div>
