@@ -1,4 +1,4 @@
-<div align="center">
+ㅍ<div align="center">
   <img src="./profile image.jpg" width="100%" alt="Ethan Im - Computational Drug Discovery" />
 
   <br/>
@@ -263,9 +263,12 @@ Accelerating scientific discovery through AI.
 
 </table>
 
-<br/><h3 align="left">🔥 GITHUB INSIGHTS</h3>
+<table width="100%">
+<tr>
 
-<br/>
+<td width="70%" valign="top">
+
+<h3>🔥 GITHUB INSIGHTS</h3>
 
 <img
 src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777"
@@ -279,22 +282,58 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_
 width="100%"
 />
 
-<br/><br/>
+</td>
+
+<td width="30%" valign="top">
 
 <h3>👤 LET'S CONNECT</h3>
 
-<p>
-I am always open to discussing:
-</p>
+<p>I am always open to discussing:</p>
 
 <ul>
   <li>AI for Science</li>
   <li>Computational Drug Discovery</li>
   <li>Molecular Machine Learning</li>
   <li>Graph Neural Networks</li>
-  <li>Open Science & Reproducible Research</li>
+  <li>Open Science</li>
 </ul>
 
+<br/>
+
+<blockquote>
+
+<b>
+Building AI that accelerates scientific discovery. 🚀
+</b>
+
+</blockquote>
+
+<br/>
+
+<p align="center">
+
+<a href="https://github.com/Ethan-Im">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/ethan-im-68335930a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://huggingface.co/Ethan-Im">
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
 <blockquote>
 
 <b>
