@@ -147,7 +147,7 @@
   </tr>
 </table>
 
-<table width="100%">
+
   <tr>
     <td width="60%" valign="top" align="center">
       <h3 align="left">🔥 GITHUB INSIGHTS</h3>
