@@ -46,7 +46,7 @@
   </tr>
 </table>
 
-<br><hr><br>
+<hr style="margin:15px 0;">
 <tr>
     <td colspan="2"><h3> 🚀 Research Journey </h3></td>
   </tr>
@@ -75,7 +75,7 @@
   </tr>
     
 </table>
-<br><hr><br>
+<hr style="margin:15px 0;">
 <tr>
     <td colspan="2"><h3>💻 skills </h3></td>
   </tr>
@@ -83,7 +83,7 @@
  <div align="center">
   <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/skills.png?raw=true" width="100%" alt="Ethan Im Header Image" />
 
-<br><hr><br>
+<hr style="margin:15px 0;">
 
 <div align="center">
   <h3>🔥 GitHub Insights</h3>
