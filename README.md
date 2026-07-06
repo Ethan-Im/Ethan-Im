@@ -1,84 +1,273 @@
 <div align="center">
   <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/profile%20image.png?raw=true" width="100%" alt="Ethan Im Header Image" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=Computational+Drug+Discovery;Molecular+Machine+Learning;Bridging+Complex+Science+and+AI;Building+Trustworthy+AI+for+Science" alt="Typing SVG" />
+<div align="center">
+
+# Ethan Im
+
+### AI Researcher • Computational Drug Discovery • Molecular Machine Learning
+
+*"Building AI systems that discover the next generation of molecules."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=2500&color=3FA9F5&center=true&vCenter=true&width=700&lines=Inverse+Molecular+Design;Graph+Neural+Networks;Computational+Drug+Discovery;AI+for+Medicine;Materials+AI"/>
 
 <p>
-    <a href="https://www.linkedin.com/in/ethan-im-68335930a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://huggingface.co/Ethan-Im"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-    <a href="https://github.com/Ethan-Im"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
+
+<a href="mailto:Iki100500@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/ethan-im-68335930a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ethan-Im">
+<img src="https://img.shields.io/badge/Research_Portfolio-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
 </div>
 
-<br><hr><br>
+---
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <td colspan="2"><h3>🔭 Research Portfolio</h3></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧬 EGFR-INVERSE</h4>
-      <p>Mutant-specific drug discovery using graph neural networks, pseudo-labeling, and inverse molecular design.</p>
-      <a href="https://huggingface.co/spaces/Ethan-Im/EGFR-Inverse"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=black"/></a>
-      <a href="https://github.com/Ethan-Im/EGFR-Inverse"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔗 POLYINVERSE</h4>
-      <p>PI1M pseudo-labeling for polymer inverse design. Improved property prediction from R² = 0.373 to 0.793.</p>
-      <a href="https://huggingface.co/spaces/Ethan-Im/polyinverse"><img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logoColor=black"/></a>
-      <a href="https://github.com/Ethan-Im/polyinverse"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔋 BATTERY-AI</h4>
-      <p>Solid-state electrolyte ionic conductivity prediction via machine learning ensemble models.</p>
-      <a href="https://github.com/Ethan-Im/Battery-Ai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📦 PACKAGING-AUTO</h4>
-      <p>Automated weight distribution and packaging optimization system developed for manufacturing automation.</p>
-      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-</table>
+# Research Vision
 
-<br><hr><br>
+I build AI models that **generate molecules**, not merely predict them.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 Research Roadmap</h3>
-      <ul>
-        <li><code>24-25</code> Automated Engineering</li>
-        <li><code>25-26</code> Materials AI</li>
-        <li><code>2026</code> Battery-AI</li>
-        <li><code>2026</code> Drug Discovery</li>
-        <li><code>Next</code> Protein Design</li>
-        <li><code>Future</code> Scientific Foundation Models</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Quick Highlights</h3>
-      <ul>
-        <li>🧪 <b>Chemical Engineer</b> (9+ Years)</li>
-        <li>💻 <b>Cross-Disciplinary</b> AI × Chemistry</li>
-        <li>🌐 <b>Global Industry</b> Experience</li>
-        <li>🗣️ <b>Communication</b> Bridging hard science and soft understanding</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+My research combines
 
-<br><hr><br>
+🧬 Computational Chemistry
 
-<div align="center">
-  <h3>🔥 GitHub Insights</h3>
-  <a href="https://github.com/Ethan-Im">
-    <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="48%" />
-  </a>
-  <a href="https://github.com/Ethan-Im">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&color=00ff88&line=00ff88&point=ffffff&area_color=transparent&hide_border=true" width="48%" />
-  </a>
-</div>
+🧠 Graph Neural Networks
+
+🧪 Molecular Machine Learning
+
+⚗️ Inverse Molecular Design
+
+with the goal of accelerating scientific discovery in medicine and advanced materials.
+
+Previously, I spent **9 years at Henkel** as a Process & Chemical Engineer. Today, I combine industrial chemistry with artificial intelligence to design the next generation of drug discovery systems.
+
+---
+
+# Current Research
+
+| Project | Focus | Status |
+|----------|-------|--------|
+| 🧬 EGFR-Inverse | Drug Discovery | 🚀 Active |
+| 🧪 Polyinverse | Polymer AI | 🚀 Active |
+| 🔋 Battery-AI | Solid-State Electrolytes | ✅ Completed |
+| ⚙️ Chem Data Pipeline | Chemical Data Engineering | ✅ Completed |
+
+---
+
+# Research Highlights
+
+## 🧬 EGFR-Inverse
+
+End-to-end inverse molecular design
+
+```
+ChEMBL
+     │
+     ▼
+Graph Neural Network
+     │
+     ▼
+Genetic Algorithm
+     │
+     ▼
+Novel Drug Candidates
+```
+
+✔ Test R = **0.74**
+
+✔ 17,623 compounds
+
+✔ 16 generated molecules
+
+---
+
+## 🧪 Polyinverse
+
+Multi-task molecular learning
+
+```
+SMILES
+
+↓
+
+AttentiveFP
+
+↓
+
+Property Prediction
+
+↓
+
+PolymerVAE
+
+↓
+
+Inverse Design
+```
+
+✔ Tg R²
+
+0.373 → **0.793**
+
+---
+
+## 🔋 Battery-AI
+
+Machine Learning for Materials Discovery
+
+606 Solid Electrolytes
+
+↓
+
+Feature Engineering
+
+↓
+
+Ensemble Learning
+
+↓
+
+Novel Candidate Generation
+
+Final R²
+
+**0.775**
+
+---
+
+# Research Interests
+
+- AI for Medicine
+- Molecular Foundation Models
+- Drug Discovery
+- Cancer Therapeutics
+- Materials Informatics
+- Explainable AI
+- Scientific Machine Learning
+
+---
+
+# Technology Stack
+
+## AI
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,postgresql,git"/>
+
+</p>
+
+### Machine Learning
+
+- PyTorch
+- PyTorch Geometric
+- Graph Neural Networks
+- XGBoost
+- CatBoost
+- Genetic Algorithms
+
+### Chemistry
+
+- RDKit
+- ChEMBL
+- SMILES
+- TDC
+- Materials Project
+- Molecular Descriptors
+
+### Data Engineering
+
+- Kafka
+- PySpark
+- PostgreSQL
+- Streamlit
+
+---
+
+# Publications
+
+📄 EGFR-Inverse
+
+AI-Driven Inverse Molecular Design for EGFR Inhibitors
+
+📄 Polyinverse
+
+Graph Neural Networks for Polymer Property Prediction
+
+📄 Battery-AI
+
+Machine Learning for Solid-State Electrolytes
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Im&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ethan-Im&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# Current Goals
+
+🎯 Publish first-author papers
+
+🎯 Graduate research in AI for Medicine
+
+🎯 Open-source molecular AI
+
+🎯 Foundation Models for Chemistry
+
+🎯 AI Scientist
+
+---
+
+# Philosophy
+
+> *"Artificial Intelligence should not only understand chemistry.*
+>
+> *It should discover chemistry."*
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Ethan-Im&color=0e75b6)
+
+</p>
