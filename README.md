@@ -89,7 +89,7 @@
 <hr style="margin:15px 0;">
 
 <div align="center">
-  <td colspan="2"><h3>🔥 GitHub Insights</h3>
+ <h3>🔥 GitHub Insights</h3>
   <a href="https://github.com/Ethan-Im">
     <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="48%" />
   </a>
@@ -100,10 +100,10 @@
 
 <hr style="margin:15px 0;">
 
-
-<td colspan="2"><h3> 🌍 Research Vision
-  
 <div align="center">
+  
+### 🌍 Research Vision
+
 ***Building trustworthy AI systems that accelerate scientific discovery.***
 
 
