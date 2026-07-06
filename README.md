@@ -106,8 +106,9 @@
 
 ***Building trustworthy AI systems that accelerate scientific discovery.***
 
-From molecular design and materials discovery to protein engineering 
-<br>and future scientific foundation models,
-<br>my goal is to expand humanity's ability to understand and create the natural world.
+
+I aspire to contribute to the future of AI-driven science 
+<br>through research in molecular machine learning, materials AI, drug discovery, 
+<br>and scientific foundation models.
 
 </div>
