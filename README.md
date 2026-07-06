@@ -97,3 +97,16 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&color=00ff88&line=00ff88&point=ffffff&area_color=transparent&hide_border=true" width="48%" />
   </a>
 </div>
+
+<hr style="margin:15px 0;">
+
+<div align="center">
+
+### 🌍 Research Vision
+
+**Building trustworthy AI systems that accelerate scientific discovery.**
+
+From molecular design and materials discovery to protein engineering and future scientific foundation models,
+my goal is to expand humanity's ability to understand and create the natural world.
+
+</div>
