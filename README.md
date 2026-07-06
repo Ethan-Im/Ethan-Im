@@ -10,7 +10,7 @@
   </p>
 </div>
 
-<br><hr><br>
+<hr style="margin:15px 0;">
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
