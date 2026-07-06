@@ -71,10 +71,7 @@
       </ul>
     </td>
   </tr>
-
-<br><hr><br>
-  
-   
+    
 </table>
 
 <tr>
