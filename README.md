@@ -16,6 +16,8 @@
   <tr>
     <td colspan="2"><h3>🔭 Research Portfolio</h3></td>
   </tr>
+  <div align="center">
+  <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/project.png?raw=true" width="100%" alt="Ethan Im Header Image" />
   <tr>
     <td width="50%" valign="top">
       <h4>🧬 EGFR-INVERSE</h4>
@@ -69,6 +71,15 @@
       </ul>
     </td>
   </tr>
+
+<br><hr><br>
+  <tr>
+    <td colspan="2"><h3>💻 skills </h3></td>
+  </tr>
+
+ <div align="center">
+  <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/skills.png?raw=true" width="100%" alt="Ethan Im Header Image" />
+   
 </table>
 
 <br><hr><br>
