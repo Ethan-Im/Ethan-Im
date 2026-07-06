@@ -16,7 +16,7 @@
   <tr>
     <td colspan="2"><h3>🔭 Research Portfolio</h3></td>
   </tr>
-  <div align="center">
+  <td colspan="2" align="center">
   <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/project.png?raw=true" width="100%" alt="Ethan Im Header Image" />
   <tr>
     <td width="50%" valign="top">
