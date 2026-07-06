@@ -1,7 +1,9 @@
-<!-- 1. HEADER (Dark Cosmic Theme) -->
+<!-- 1. HEADLINE (Animated & Dynamic Header) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,100:002233&height=250&section=header&text=Ethan%20Im&fontSize=50&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Computational%20Drug%20Discovery%20%7C%20Molecular%20Machine%20Learning&descColor=ffffff&descAlignY=55&descSize=20" width="100%"/>
-  <p><i>Building AI systems for inverse molecular design in medicine and materials.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,100:004433&height=250&section=header&text=Ethan%20Im&fontSize=65&fontColor=00ff88&animation=twinkling&fontAlignY=38" width="100%"/>
+  <a href="https://github.com/Ethan-Im">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=50&lines=Computational+Drug+Discovery;Molecular+Machine+Learning;Building+AI+for+Scientific+Discovery+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -149,16 +151,24 @@
   </tr>
 </table>
 
-<!-- 7. 2-COLUMN LAYOUT: GITHUB STATS & CONNECT -->
+<!-- 7. 2-COLUMN LAYOUT: FLASHY GITHUB STATS & CONNECT -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top" align="center">
-      <h3 align="left">📈 GITHUB STATS</h3>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=minimal&hide_border=true" width="100%"/>
+    <td width="65%" valign="top" align="center">
+      <h3 align="left">🔥 GITHUB INSIGHTS</h3>
       <br/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ethan-Im&theme=default" width="100%"/>
+      <!-- Stats & Streak Cards Side-by-Side (Transparent with Neon Green Accent) -->
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" height="150" />
+        <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" height="150" />
+      </div>
+      <br/>
+      <!-- Neon Activity Graph -->
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="95%" />
+      </div>
     </td>
-    <td width="40%" valign="top">
+    <td width="35%" valign="top">
       <h3>👤 LET'S CONNECT</h3>
       <p>I am always open to discussing:</p>
       <ul>
