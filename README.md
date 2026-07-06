@@ -150,11 +150,11 @@
 <table width="100%">
   <tr>
     <td width="60%" valign="top" align="center">
-   <h3 align="left">🔥 GITHUB INSIGHTS</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="100%" />
+<h3 align="left">🔥 GITHUB INSIGHTS</h3>
 
 <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="100%" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&color=00ff88&line=00ff88&point=ffffff&area_color=transparent&hide_border=true" width="100%" />
       </a>
