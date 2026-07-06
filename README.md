@@ -1,6 +1,7 @@
-<!-- 1. HEADLINE (Animated & Dynamic Header) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001122,100:004433&height=250&section=header&text=Ethan%20Im&fontSize=65&fontColor=00ff88&animation=twinkling&fontAlignY=38" width="100%"/>
+  <img src="./profile image.jpg" width="100%" alt="Ethan Im - Computational Drug Discovery" />
+  
+  <br/>
   <a href="https://github.com/Ethan-Im">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=50&lines=Computational+Drug+Discovery;Molecular+Machine+Learning;Building+AI+for+Scientific+Discovery+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -8,7 +9,6 @@
 
 <br/>
 
-<!-- 2. SOCIAL LINKS (Centered Pill Badges) -->
 <div align="center">
   <a href="https://www.linkedin.com/in/ethan-im-68335930a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.threads.com/@ethan.im_"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /></a>
@@ -20,7 +20,6 @@
 
 <br/>
 
-<!-- 3. RESEARCH VISION -->
 <table width="100%">
   <tr>
     <td>
@@ -37,7 +36,6 @@
   </tr>
 </table>
 
-<!-- 4. FLAGSHIP PROJECT -->
 <table width="100%">
   <tr>
     <td colspan="4">
@@ -81,7 +79,6 @@
   </tr>
 </table>
 
-<!-- 5. 3-COLUMN LAYOUT: ROADMAP, PORTFOLIO, HIGHLIGHTS -->
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
@@ -125,7 +122,6 @@
   </tr>
 </table>
 
-<!-- 6. 2-COLUMN LAYOUT: PUBLICATIONS & TECH STACK -->
 <table width="100%">
   <tr>
     <td width="55%" valign="top">
@@ -151,22 +147,21 @@
   </tr>
 </table>
 
-<!-- 7. 2-COLUMN LAYOUT: FLASHY GITHUB STATS & CONNECT -->
 <table width="100%">
-  <tr>
-    <td width="65%" valign="top" align="center">
-      <h3 align="left">🔥 GITHUB INSIGHTS</h3>
-      <br/>
-      <!-- Stats & Streak Cards Side-by<table width="100%">
   <tr>
     <td width="60%" valign="top" align="center">
       <h3 align="left">🔥 GITHUB INSIGHTS</h3>
+      <a href="https://github.com/Ethan-Im">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="100%" />
+      </a>
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="95%" />
+      <a href="https://github.com/Ethan-Im">
+        <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="100%" />
+      </a>
       <br/>
-      <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="95%" />
-      <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="95%" />
+      <a href="https://github.com/Ethan-Im">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="100%" />
+      </a>
     </td>
     <td width="40%" valign="top">
       <h3>👤 LET'S CONNECT</h3>
