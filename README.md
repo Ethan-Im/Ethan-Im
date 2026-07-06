@@ -152,7 +152,7 @@
     <td width="60%" valign="top" align="center">
       <h3 align="left">🔥 GITHUB INSIGHTS</h3>
       <a href="https://github.com/Ethan-Im">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="95%" />
       </a>
       <br/>
       <a href="https://github.com/Ethan-Im">
