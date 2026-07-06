@@ -47,10 +47,10 @@
 <h3>📈 Research Roadmap</h3>
 
 <ul>
-  <li>[2023 - 2024] Materials AI: Polymer property prediction</li>
   <li>[2024 - 2025] Automated Engineering: Weight Distribution and Packaging Automation</li>
-  <li>[2025] Drug Discovery: EGFR-Inverse</li>
+  <li>[2025-2026] Materials AI: Polymer property prediction</li>
   <li>[2026] Battery-AI: Solid-state Electrolyte Ionic Conductivity Prediction</li>
+  <li>[2026] Drug Discovery: EGFR-Inverse</li>
   <li>[Next] Protein Design and Inverse Engineering</li>
   <li>[Future] Foundation Models for Scientific AI</li>
 </ul>
@@ -61,7 +61,6 @@
 
 <ul>
   <li>9+ Years: Chemical Engineer at Henkel</li>
-  <li>B.S. Computer Science: University of the People</li>
   <li>Cross-Disciplinary: Chemistry × Computer Science × AI</li>
 </ul>
 
