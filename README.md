@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/profile%20image.png?raw=true" width="100%" alt="Ethan Im Header Image" />
-  
-  <br><br>
 
+  <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=Computational+Drug+Discovery;Molecular+Machine+Learning;Bridging+Complex+Science+and+AI;Building+Trustworthy+AI+for+Science" alt="Typing SVG" />
 
