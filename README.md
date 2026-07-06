@@ -73,14 +73,16 @@
   </tr>
 
 <br><hr><br>
-  <tr>
+  
+   
+</table>
+
+<tr>
     <td colspan="2"><h3>💻 skills </h3></td>
   </tr>
 
  <div align="center">
   <img src="https://github.com/Ethan-Im/Ethan-Im/blob/main/skills.png?raw=true" width="100%" alt="Ethan Im Header Image" />
-   
-</table>
 
 <br><hr><br>
 
