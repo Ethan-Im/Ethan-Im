@@ -47,7 +47,9 @@
 </table>
 
 <br><hr><br>
-
+<tr>
+    <td colspan="2"><h3> 🚀 Research Journey </h3></td>
+  </tr>
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
