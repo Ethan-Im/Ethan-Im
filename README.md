@@ -160,7 +160,7 @@
       </a>
       <br/>
       <a href="https://github.com/Ethan-Im">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="100%" />
       </a>
     </td>
     <td width="40%" valign="top">
