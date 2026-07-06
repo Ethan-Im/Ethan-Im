@@ -73,7 +73,7 @@
   </tr>
     
 </table>
-
+<br><hr><br>
 <tr>
     <td colspan="2"><h3>💻 skills </h3></td>
   </tr>
