@@ -157,18 +157,18 @@
     <td width="65%" valign="top" align="center">
       <h3 align="left">🔥 GITHUB INSIGHTS</h3>
       <br/>
-      <!-- Stats & Streak Cards Side-by-Side (Transparent with Neon Green Accent) -->
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" height="150" />
-        <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" height="150" />
-      </div>
+      <!-- Stats & Streak Cards Side-by<table width="100%">
+  <tr>
+    <td width="60%" valign="top" align="center">
+      <h3 align="left">🔥 GITHUB INSIGHTS</h3>
       <br/>
-      <!-- Neon Activity Graph -->
-      <div align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="95%" />
-      </div>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=transparent&title_color=00ff88&text_color=777777&icon_color=00ff88&hide_border=true" width="95%" />
+      <br/>
+      <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="95%" />
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=transparent&color=00ff88&line=00ff88&point=ffffff&hide_border=true" width="95%" />
     </td>
-    <td width="35%" valign="top">
+    <td width="40%" valign="top">
       <h3>👤 LET'S CONNECT</h3>
       <p>I am always open to discussing:</p>
       <ul>
