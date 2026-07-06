@@ -82,18 +82,63 @@
 <table width="100%">
   <tr>
     <td width="33%" valign="top">
+      <table width="100%">
+  <tr>
+    <td width="33%" valign="top">
       <h3>📅 RESEARCH ROADMAP</h3>
       <br/>
       ✔️ <b>2023–2024</b> <br/>
       <small>Materials AI (Polymer property prediction)</small><br/><br/>
+      
       ✔️ <b>2024–2025</b> <br/>
-      <small>Inverse Design (Polyinverse PI1M)</small><br/><br/>
+      <small><b>Automated Engineering</b><br/>(무게 분산 및 패키징 자동화 프로그램 개발)</small><br/><br/>
+      
       🟢 <b>2025</b> <br/>
       <small><b>Drug Discovery</b> (EGFR-Inverse)</small><br/><br/>
+      
+      🟢 <b>2026</b> <br/>
+      <small><b>Battery-AI</b><br/>(Solid-state electrolyte ionic conductivity prediction)</small><br/><br/>
+      
       ⭕ <b>Next</b> <br/>
       <small>Protein Design & Inverse engineering</small><br/><br/>
+      
       ⭕ <b>Future</b> <br/>
       <small>Foundation Models for scientific AI</small>
+    </td>
+    
+    <td width="34%" valign="top">
+      <h3>💼 RESEARCH PORTFOLIO</h3>
+      <br/>
+      <b>🔗 POLYINVERSE</b><br/>
+      <small>PI1M pseudo-labeling for polymer inverse design. $R^2$ lifted 0.373 ➔ 0.793.</small><br/>
+      <a href="https://huggingface.co/spaces/Ethan-Im/polyinverse"><img src="https://img.shields.io/badge/Live_Demo-00ff88?style=flat-square&logoColor=black" /></a>
+      <a href="https://github.com/Ethan-Im/polyinverse"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>
+      <br/><br/>
+      
+      <b>🔋 BATTERY-AI</b><br/>
+      <small>Solid-state electrolyte ionic conductivity prediction via ML ensemble.</small><br/>
+      <a href="https://github.com/Ethan-Im/Battery-Ai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>
+      <br/><br/>
+      
+      <b>📦 PACKAGING-AUTO</b><br/>
+      <small>Automated weight distribution & packaging optimization system.</small><br/>
+      <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" /></a>
+    </td>
+    
+    <td width="33%" valign="top">
+      <h3>⚡ QUICK HIGHLIGHTS</h3>
+      <br/>
+      👨‍🔬 <b>9+ Years</b><br/>
+      <small>Chemical Engineer @ Henkel</small><br/><br/>
+      ⚙️ <b>Cross-Disciplinary</b><br/>
+      <small>Chemistry × CS × AI</small><br/><br/>
+      🔓 <b>Open Source</b><br/>
+      <small>All projects are open-source</small><br/><br/>
+      🎯 <b>Impact-Driven</b><br/>
+      <small>Solving real scientific problems with AI</small>
+    </td>
+  </tr>
+</table>
     </td>
     <td width="34%" valign="top">
       <h3>💼 RESEARCH PORTFOLIO</h3>
