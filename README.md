@@ -88,9 +88,23 @@
 
 <hr style="margin:15px 0;">
 
-<a href="https://github.com/Ethan-Im">
-  <img src="https://streak-stats.demolab.com/?user=Ethan-Im&theme=tokyonight&hide_border=true" alt="Ethan-Im Streak" />
-</a>
+<h3 align="center">📈 Research Metrics</h3>
+
+<p align="center">
+Tracking continuous progress through open research and reproducible science.
+</p>
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 <hr style="margin:15px 0;">
 
