@@ -99,14 +99,21 @@
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ethan-Im&theme=github_dark" alt="Profile Summary"/>
 </p>
 
-<p align="left">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
+<table>
+<tr>
+<td width="70%">
 
-<p align="right">
-  <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ethan-Im&theme=github_dark" alt="Repositories per Language"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night&hide_border=true" width="100%" />
 
+</td>
+
+<td width="30%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ethan-Im&theme=github_dark" width="100%" />
+
+</td>
+</tr>
+</table>
 <hr style="margin:15px 0;">
 
 <div align="center">
