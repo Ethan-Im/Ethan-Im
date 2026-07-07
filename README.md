@@ -88,22 +88,23 @@
 
 <hr style="margin:15px 0;">
 
-<h3 align="center">📈 Research Metrics</h3>
+
+<h3 align="center">📊 Open Research Analytics</h3>
 
 <p align="center">
-Tracking continuous progress through open research and reproducible science.
+<i>Open science. Continuous research. Visible progress.</i>
 </p>
 
 <p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ethan-Im&theme=github_dark" alt="Profile Summary"/>
 </p>
 
 <p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&theme=tokyo-night&hide_border=true"/>
-
+<p align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ethan-Im&theme=github_dark" alt="Repositories per Language"/>
 </p>
 
 <hr style="margin:15px 0;">
