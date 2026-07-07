@@ -88,21 +88,9 @@
 
 <hr style="margin:15px 0;">
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  
-  <a href="https://github.com/Ethan-Im">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Im&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ethan-Im Stats" />
-  </a>
-  
-  <a href="https://github.com/Ethan-Im">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ethan-Im&theme=tokyonight&hide_border=true" alt="Ethan-Im Streak" />
-  </a>
-  
-  <a href="https://github.com/Ethan-Im">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Im&layout=compact&theme=tokyonight&hide_border=true" alt="Ethan-Im Top Langs" />
-  </a>
-</div>
+<a href="https://github.com/Ethan-Im">
+  <img src="https://streak-stats.demolab.com/?user=Ethan-Im&theme=tokyonight&hide_border=true" alt="Ethan-Im Streak" />
+</a>
 
 <hr style="margin:15px 0;">
 
