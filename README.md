@@ -89,12 +89,13 @@
 <hr style="margin:15px 0;">
 
 <div align="center">
- <h3>🔥 GitHub Insights</h3>
+  <h3>🔥 GitHub Insights</h3>
   <a href="https://github.com/Ethan-Im">
-    <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=Ethan-Im&theme=transparent&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&currStreakNum=00ff88&sideNums=777777&sideLabels=777777&dates=777777" alt="GitHub Streak Stats" />
   </a>
+  <br/>
   <a href="https://github.com/Ethan-Im">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&color=00ff88&line=00ff88&point=ffffff&area_color=transparent&hide_border=true" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ethan-Im&bg_color=transparent&color=00ff88&line=00ff88&point=ffffff&area_color=transparent&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </div>
 
